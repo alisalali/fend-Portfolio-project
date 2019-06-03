@@ -1,0 +1,29 @@
+.header-txt{
+    text-align: right;
+    text-transform: uppercase; 
+    color:#02b3e4;
+
+
+}
+hr {
+    height: 2px;
+}
+.container{
+    color:#2d3c49;
+}
+.img-logo{
+    width: 90px;
+    height: 90px;
+    
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.img-container{
+    margin-top: 30px;
+
+}
